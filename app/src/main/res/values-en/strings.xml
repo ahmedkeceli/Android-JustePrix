@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juste Prix</string>
+    <string name="txt_welcome">Welcome to Juste Prix</string>
+    <string name="txt_rule">Enter a value between 1 and 100:</string>
+    <string name="txtButton">Compare</string>
+    <string name="strGreater">Please enter a greater value.</string>
+    <string name="strLower">Please enter a lower value.</string>
+    <string name="strCongratulations">Congratulations</string>
+    <string name="strMessage">Congratulations, You win in %d times. Do you want retry?</string>
+    <string name="strYes">Yes</string>
+    <string name="strNo">No</string>
+</resources>

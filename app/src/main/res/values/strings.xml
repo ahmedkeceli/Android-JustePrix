@@ -1,6 +1,12 @@
 <resources>
-    <string name="app_name">JustePrix</string>
-    <string name="txt_welcome">Bienvenu sur notre jeu du Juste Prix !</string>
+    <string name="app_name">Juste Prix</string>
+    <string name="txt_welcome">Bienvenu au juste prix</string>
     <string name="txt_rule">Saisir une valeur entre 1 et 100 :</string>
+    <string name="strGreater">Veuillez saisir une valeur plus grande.</string>
+    <string name="strLower">Veuillez saisir une valeur plus petite.</string>
+    <string name="strCongratulations">Félicitations</string>
+    <string name="strMessage">Félicitations, vous avez trouvé en %d coups. Voulez vous recommencer ?</string>
+    <string name="strNo">Non</string>
     <string name="txtButton">Comparer</string>
+    <string name="strYes">Oui</string>
 </resources>
