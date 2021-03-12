@@ -9,3 +9,5 @@ Concepts :
 * The strings.xml files
 
 * Logs (DEBUG, INFO, WARNNGS ...) 
+
+Thanks to Koor.fr
